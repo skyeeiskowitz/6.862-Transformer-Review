@@ -32,4 +32,4 @@ Li, S., Jin, X., Xuan, Y., Zhou, X., Chen, W., Wang, Y.-X., and Yan, X.  Enhanci
 
 
 
-This code is not public and was taken out for the peer review portion of this project
+This code is not public and was taken out for the peer review portion of this project, but models can be loaded in the `transformer_pkg` package
